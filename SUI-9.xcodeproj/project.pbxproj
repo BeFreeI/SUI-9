@@ -11,6 +11,7 @@
 		675EEE702AE68A32002871DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675EEE6F2AE68A32002871DF /* ContentView.swift */; };
 		675EEE722AE68A34002871DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 675EEE712AE68A34002871DF /* Assets.xcassets */; };
 		675EEE752AE68A34002871DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 675EEE742AE68A34002871DF /* Preview Assets.xcassets */; };
+		675EEE7C2AE71886002871DF /* AlternativeContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675EEE7B2AE71886002871DF /* AlternativeContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		675EEE6F2AE68A32002871DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		675EEE712AE68A34002871DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		675EEE742AE68A34002871DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		675EEE7B2AE71886002871DF /* AlternativeContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				675EEE6D2AE68A32002871DF /* SUI_9App.swift */,
 				675EEE6F2AE68A32002871DF /* ContentView.swift */,
+				675EEE7B2AE71886002871DF /* AlternativeContentView.swift */,
 				675EEE712AE68A34002871DF /* Assets.xcassets */,
 				675EEE732AE68A34002871DF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				675EEE702AE68A32002871DF /* ContentView.swift in Sources */,
 				675EEE6E2AE68A32002871DF /* SUI_9App.swift in Sources */,
+				675EEE7C2AE71886002871DF /* AlternativeContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

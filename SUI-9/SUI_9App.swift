@@ -11,7 +11,17 @@ import SwiftUI
 struct SUI_9App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabView {
+                ContentView()
+                    .tabItem {
+                        Label("tutorial", systemImage: "star.fill")
+                    }
+                
+                AlternativeContentView()
+                    .tabItem {
+                        Label("alternative", systemImage: "star.fill")
+                    }
+            }
         }
     }
 }
